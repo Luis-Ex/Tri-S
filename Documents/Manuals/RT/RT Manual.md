@@ -1,6 +1,7 @@
 ##Manual de Instalación de Request Tracker
 
 1. Antes de instalar Request Tracker debe tener instalado los siguientes paquetes:
+    * Compilador de C y make ```apt-get install build-essential```
     * Perl 5.10.1 o mayor (http://www.perl.org). Los sistemas debian ya lo traen, para verificar correr en terminal  ```$perl -v```
     
     * Una base de datos SQL aprobada:
