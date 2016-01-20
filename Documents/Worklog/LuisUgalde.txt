@@ -173,8 +173,20 @@ Entregables semana #4 (04 de enero, 2016)
 	17 de enero:
 		- Finalización del trabajo para la iteración #3.
 		- Creación del manual para exportar en RT.
+		- Pasar el manual de isntalación de RT a Markdown.
 		
 	18 de enero:
 		- Creación de un usuario restapi en RT para utilizar en el servicio web para crear los tiquetes.
 		- Modificación de los permisos de algunos usuarios en RT.
+		- Reunión con Kevin Moraga para revisar la tercera iteración.
+		- Inicio de la instalación de RT en la sede.
+	
+	19 de enero:
+		- Finalización de la instalación de RT en la sede.
+		- Migración de la base de datos de RT.
+		- Configuración de articulos en RT.
+		- Instalación del servidor web en la sede.
+		- Guardar cuentas y contraseñas en KeePassX.
+		- Redacción de los casos de prueba para la aceptación del sistema.
+		- Documentación del código.
 	
